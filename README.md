@@ -58,11 +58,11 @@ cargo install --path .
 ```
 ## Burdan sonrası dikkatli okuyalım:
 
- * Bu komutta sadece `RUESSEED` dediğim yeri değiştirin ve bunu kaydedin, bu sizin seediniz
+ * Bu komutta sadece `aliveli` dediğim yeri değiştirin ve bunu kaydedin, bu sizin seediniz
  * Nodu bir gün taşımak isterseniz bu `SEED` ile nodu kuracaksınız.
 
 ```
-bazuka init --seed RUESSEED --network chaos --node 127.0.0.1:8765
+bazuka init --seed aliveli --network chaos --node 127.0.0.1:8765
 ```
 
 ## Şimdi nodumuzu farklı screende çalıştıralım:
